@@ -1,0 +1,11 @@
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\bin\Debug\Festival Petronio.exe.config
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\bin\Debug\Festival Petronio.exe
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\bin\Debug\Festival Petronio.pdb
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival Petronio.csprojResolveAssemblyReference.cache
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival_Petronio.Properties.Resources.resources
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival Petronio.csproj.GenerateResource.Cache
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival Petronio.exe
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival Petronio.pdb
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival_Petronio.FormGrupo.resources
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival_Petronio.FormIdentificacion.resources
+C:\Users\Lilian Paola\Documents\UIcesi\Proyecto integrador1\Festival Petronio\Festival Petronio\obj\Debug\Festival_Petronio.FormMusicos.resources
